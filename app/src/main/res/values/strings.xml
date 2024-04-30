@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="button_text">Login</string>
+    <string name="register">Don\'t have an account? Register\n</string>
+    <string name="registerEmail">Email Address</string>
+    <string name="registerPassowrd">Password</string>
+    <string name="registerRetypePassword">Retype Password</string>
+    <string name="registerButton">Register</string>
+    <string name="login">Already have an account? Login</string>
+    <string name="admin_dashboard">Admin Dashboard</string>
+    <string name="user_dashboard">User Dashboard</string>
+</resources>
